@@ -42,4 +42,4 @@
 - [OpenAI Spinning Up: PPO](https://spinningup.openai.com/en/latest/algorithms/ppo.html)
 - [Stable Baselines3: PPO](https://stable-baselines3.readthedocs.io/en/master/modules/ppo.html)
 
-These prompts provide a starting point for beginners to explore PPO. Start with the basic understanding questions and gradually move towards more advanced concepts. Feel free to modify the prompts to suit your learning goals and explore different aspects of PPO. Happy learning!
+Start with the basic understanding questions and gradually move towards more advanced concepts. Feel free to modify the prompts to suit your learning goals and explore different aspects of PPO. Happy learning!
