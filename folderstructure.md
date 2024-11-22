@@ -3,4 +3,4 @@ ppo-gridworld
 ├── metadata.json
 ├── prompts.md
 ├── requirements.txt
-└── PPO.ipynb
+└── PPO.py
