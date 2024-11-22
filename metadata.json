@@ -1,0 +1,25 @@
+{
+  "name": "PPO GridWorld",
+  "description": "This notebook demonstrates Proximal Policy Optimization (PPO) for solving a simple GridWorld environment.",
+  "colab_type": "code",
+  "developer": [
+    {
+      "name": "Harshita"
+    }
+  ],
+  "categories": [
+    "reinforcement-learning",
+    "machine-learning",
+    "artificial-intelligence"
+  ],
+  "tags": [
+    "PPO",
+    "GridWorld",
+    "TensorFlow"
+  ],
+  "main_language": "python",
+  "kernelspec": {
+    "name": "python3",
+    "display_name": "Python 3"
+  }
+}
