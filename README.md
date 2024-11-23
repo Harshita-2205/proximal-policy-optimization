@@ -49,6 +49,16 @@ The code is structured into four main parts:
 3. Periodically, the agent updates its policy and value function using the stored experiences and the PPO algorithm.
 4. This process repeats until the agent learns to solve the task efficiently.
 
+## Folder Structure
+```
+ppo-gridworld
+├── README.md          # Project documentation
+├── prompts.md         # Additional project notes or prompts
+├── requirements.txt   # Dependencies for the project
+└── Code
+     ├── PPO.py        # Main PPO implementation
+
+```
 ## Results
 
 The notebook outputs the total reward obtained by the agent in each episode. You should observe the agent's performance improving over time as it learns to navigate the grid world more efficiently.
