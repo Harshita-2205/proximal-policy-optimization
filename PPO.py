@@ -9,9 +9,6 @@
     Version:
         Version: V 1.0.0 (23rd October, 2024)
             Developer: Harshita
-            Reviewer: 
-            Unit test: 
-            Integration test: 
 
     Description: Implementation of Proximal Policy Optimization (PPO) for solving a simple GridWorld 
     environment. Combines reinforcement learning techniques to model agent interactions in a grid world.
