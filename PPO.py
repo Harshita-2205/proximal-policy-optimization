@@ -1,3 +1,48 @@
+"""
+# META DATA - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Developer Details: 
+        Name: Harshita
+        Role: Developer
+        Code ownership rights: Harshita
+
+    Version:
+        Version: V 1.0.0 (23rd November, 2024)
+            Developer: Harshita
+            Reviewer: [Add Reviewer Name, if any]
+            Unit test: Pass
+            Integration test: Pending
+
+    Description: Implementation of Proximal Policy Optimization (PPO) for solving a simple GridWorld 
+    environment. Combines reinforcement learning techniques to model agent interactions in a grid world.
+
+# TECHNICAL DETAILS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+    Programming Language: Python
+    Framework: TensorFlow
+    Dependencies: 
+        - Python 3.7+
+        - TensorFlow
+        - NumPy
+
+# DATA REQUIREMENTS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    Input Data Format: No external data required. GridWorld environment is internally simulated.
+    Output: Rewards and actions logged per episode.
+
+# USAGE INSTRUCTIONS - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    For installation, setup, and execution details, refer to the [README.md] file in the project repository.
+
+# VERSION HISTORY - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+    Version: 1.0.0
+    Changes: Initial implementation of the PPO algorithm for GridWorld environment.
+    Date: 23rd November, 2024
+
+"""
+
+
 import tensorflow as tf
 import numpy as np
 import random
