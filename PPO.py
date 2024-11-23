@@ -7,11 +7,11 @@
         Code ownership rights: Harshita
 
     Version:
-        Version: V 1.0.0 (23rd November, 2024)
+        Version: V 1.0.0 (23rd October, 2024)
             Developer: Harshita
-            Reviewer: [Add Reviewer Name, if any]
-            Unit test: Pass
-            Integration test: Pending
+            Reviewer: 
+            Unit test: 
+            Integration test: 
 
     Description: Implementation of Proximal Policy Optimization (PPO) for solving a simple GridWorld 
     environment. Combines reinforcement learning techniques to model agent interactions in a grid world.
@@ -38,7 +38,7 @@
 
     Version: 1.0.0
     Changes: Initial implementation of the PPO algorithm for GridWorld environment.
-    Date: 23rd November, 2024
+    Date: 23rd October, 2024
 
 """
 
